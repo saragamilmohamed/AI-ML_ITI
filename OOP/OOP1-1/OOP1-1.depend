@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730463044 source:c:\users\el-huda\downloads\iti\c course\oop1-1\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+
