@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731788610 source:c:\users\el-huda\downloads\iti\oop\chapter6-2\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
